@@ -26,6 +26,9 @@ The following **required** functionality is completed:
 ### Encryption
 * [X] Column Data Encryption.
 
+## ERD
+<img src='Database-Design-ERD.png' title='Database-Design-ERD' width='' alt='Database-Design-ERD' />
+
 ## Notes
 Describe any challenges encountered while designing the database.
 
